@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats-omega-flax.vercel.app/api?username=JorTurFer&show_icons=true&theme=cobalt&count_private=false&hide=stars&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats-omega-flax.vercel.app/api?username=JorTurFer&show_icons=true&theme=cobalt&count_private=false&hide=stars)
 
 ![Top Langs](https://github-readme-stats-omega-flax.vercel.app/api/top-langs/?username=jorturfer&theme=cobalt&hide=html,less,css,c&langs_count=5&layout=compact)
 
