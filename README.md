@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Jorge Turrado</h1>
-<h3 align="left">I work as a Staff SRE at SCRM Lidl International Hub </h3>
+<h3 align="left">I work as a Principal SRE at SCRM Lidl International Hub </h3>
 
 <h3 align="left">About me:</h3>
 <ul align="left">
