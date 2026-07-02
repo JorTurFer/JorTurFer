@@ -5,7 +5,7 @@
 <ul align="left">
   <li><img align="center" src="https://keda.sh/img/logos/keda-icon-color.png" height="25" width="25"/>
   <span align="center"><a href="https://keda.sh">KEDA Maintainer</a></span></li>
-  <li><img align="center" src="https://api.nuget.org/v3-flatcontainer/mvp.api/1.4.18304.5/icon" height="25" width="25"/>
+  <li><img align="center" src="https://store-images.s-microsoft.com/image/apps.4820.14075031125413332.02a30362-d427-405d-b196-c751c6c3193d.2103234c-fe1b-4018-9dd0-0c219e687647?h=210" height="25" width="25"/>
   <span align="center"><a href="https://mvp.microsoft.com/es-ES/mvp/profile/c15d2d84-bfd9-e811-8172-3863bb2e0320">Microsoft MVP</a></span></li>
   <li><img align="center" src="https://www.cncf.io/wp-content/uploads/2023/04/cncf-ambassador-stacked-color.svg" height="25" width="25"/>
   <span align="center"><a href="https://www.cncf.io/people/ambassadors/?p=jorge-turrado-ferrero">CNCF Ambassador</a></span></li>  
@@ -13,6 +13,8 @@
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorturfer&label=Profile%20views&color=0e75b6&style=flat" alt="jorturfer" /> </p>
+
+[![DevStats Card](https://devstats.me/?username=jorturfer)](https://github.com/tico88612/devstats-card)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jorturfer&theme=vue&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 
