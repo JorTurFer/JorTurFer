@@ -16,8 +16,6 @@
   <a href="https://www.cncf.io/people/ambassadors/?p=jorge-turrado-ferrero">CNCF Ambassador</a>
   ·
   <a href="https://sessionize.com/jorge-turrado/">Conference Speaker</a>
-  ·
-  <a href="https://github.com/sponsors/JorTurFer">Community Organizer</a>
 </p>
 
 <p align="center">
@@ -59,10 +57,6 @@
 
 <p>
   🎤 <a href="https://sessionize.com/jorge-turrado/">Speaker at conferences and local meetups</a>
-</p>
-
-<p>
-  🌍 <a href="https://github.com/sponsors/JorTurFer">Organizer of Global Azure Spain</a>
 </p>
 
 ## Find me around
