@@ -18,8 +18,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jorturfer&theme=vue&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 
-![Jorge's GitHub trophies](https://github-profile-trophy.vercel.app/?username=jorturfer)
-
 
 <!--
 **jorturfer/jorturfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
