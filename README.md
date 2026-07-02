@@ -59,5 +59,5 @@
 </p>
 
 <!--
-**jorturfer/jorturfer** is a ✨ special ✨ repository because its `README.md` appears on the GitHub profile.
+**jorturfer/jorturfer** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
