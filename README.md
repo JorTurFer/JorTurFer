@@ -14,6 +14,10 @@
   <a href="https://mvp.microsoft.com/es-ES/mvp/profile/c15d2d84-bfd9-e811-8172-3863bb2e0320">Microsoft MVP</a>
   ·
   <a href="https://www.cncf.io/people/ambassadors/?p=jorge-turrado-ferrero">CNCF Ambassador</a>
+  ·
+  <a href="https://sessionize.com/jorge-turrado/">Conference Speaker</a>
+  ·
+  <a href="https://github.com/sponsors/JorTurFer">Community Organizer</a>
 </p>
 
 <p align="center">
@@ -26,6 +30,15 @@
 - I contribute to the Kubernetes ecosystem as a KEDA maintainer.
 - I support the community as a Microsoft MVP and CNCF Ambassador.
 - I enjoy sharing knowledge about SRE, platform engineering, and open source.
+- I speak at conferences and meetups about Kubernetes, autoscaling, observability, and platform engineering.
+- I help grow local and global communities, including Global Azure Spain.
+
+## What I focus on
+
+- **Site Reliability Engineering** for resilient, production-grade platforms.
+- **Cloud-native platforms** built around Kubernetes, automation, and developer enablement.
+- **Event-driven autoscaling** through KEDA and related ecosystem projects.
+- **Community work** through speaking, mentoring, and open source collaboration.
 
 ## Community
 
@@ -43,6 +56,21 @@
   <img align="center" src="https://www.cncf.io/wp-content/uploads/2023/04/cncf-ambassador-stacked-color.svg" height="24" width="24" alt="CNCF Ambassador logo" />
   <a href="https://www.cncf.io/people/ambassadors/?p=jorge-turrado-ferrero">CNCF Ambassador</a>
 </p>
+
+<p>
+  🎤 <a href="https://sessionize.com/jorge-turrado/">Speaker at conferences and local meetups</a>
+</p>
+
+<p>
+  🌍 <a href="https://github.com/sponsors/JorTurFer">Organizer of Global Azure Spain</a>
+</p>
+
+## Find me around
+
+- <a href="https://github.com/JorTurFer">GitHub</a>
+- <a href="https://github.com/sponsors/JorTurFer">GitHub Sponsors</a>
+- <a href="https://sessionize.com/jorge-turrado/">Sessionize</a>
+- <a href="https://hub.docker.com/u/jorturfer">Docker Hub</a>
 
 ## GitHub stats
 
